@@ -15,7 +15,7 @@ name:      Manuela Larrea
 role:      AI Architect & Senior Data Scientist · Banking
 focus:     [ Agentic RAG, AI governance, reference architectures, MLOps ]
 education: [ MSc IA & Big Data, MSc Ingeniería de Software (in progress) ]
-teaching:  [ EAFIT · AI Topics, Microsoft · GenAI para entidades financieras ]
+teaching:  [ EAFIT · AI Topics, Microsoft · GenAI para entidades financieras,  Scopus-USA · AI Master]
 ```
 
 ## `$ cat stack.yaml`
