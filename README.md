@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=7EE787&center=true&vCenter=true&width=700&lines=AI+Architect+%26+Senior+Data+Scientist+%40+BNCR;Enterprise+Agentic+RAG+%C2%B7+Harness+Engineering;Docente+de+IA+%40+EAFIT+%2F+Microsoft" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=7EE787&center=true&vCenter=true&width=700&lines=AI+Architect+%26+Senior+Data+Scientist;Enterprise+Agentic+RAG+%C2%B7+Harness+Engineering;AI+Lecturer+%40+EAFIT+%2F+Microsoft+%2F+Scopus" alt="typing" />
 </div>
 
 <br/>
@@ -14,8 +14,8 @@
 name:      Manuela Larrea
 role:      AI Architect & Senior Data Scientist · Banking
 focus:     [ Agentic RAG, AI governance, reference architectures, MLOps ]
-education: [ MSc IA & Big Data, MSc Ingeniería de Software (in progress) ]
-teaching:  [ EAFIT · AI Topics, Microsoft · GenAI para entidades financieras,  Scopus-USA · AI Master]
+education: [ MSc AI & Big Data, MSc Software Engineering (in progress) ]
+teaching:  [ EAFIT · Advanced AI Topics, Microsoft · GenAI for Financial Services, Scopus-USA · AI Master ]
 ```
 
 ## `$ cat stack.yaml`
@@ -41,16 +41,16 @@ teaching:  [ EAFIT · AI Topics, Microsoft · GenAI para entidades financieras, 
 
 | | |
 |---|---|
-| 📄 **Paper** | *Beyond Retrieval and Prompting: Harness Engineering for Enterprise Agentic RAG* — Congreso Colombiano de Computación |
-| 🏦 **Banking** | Gobernanza y arquitecturas de referencia para agentes de IA en banca regulada (SUGEF) |
-| 🎓 **Docencia** | STAI · Pensamiento Computacional (EAFIT) · GenAI para finanzas (Microsoft) |
+| 📄 **Paper** | *Beyond Retrieval and Prompting: Harness Engineering for Enterprise Agentic RAG* — Colombian Computing Congress |
+| 🏦 **Banking** | AI governance and reference architectures for AI agents in regulated banking |
+| 🎓 **Teaching** | Advanced AI Topics · Computational Thinking (EAFIT) · GenAI for Finance (Microsoft) · AI Master (Scopus-USA) |
 | 🏅 **Certs** | GitHub Certified: Agentic AI Developer (GH-600) |
 
 ## `$ git log --stat`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7ee787&icon_color=79c0ff" height="165" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7ee787" height="165" alt="langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=manularrea&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7ee787&icon_color=79c0ff" height="165" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manularrea&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7ee787" height="165" alt="langs" />
 </div>
 
 <div align="center">
