@@ -47,17 +47,9 @@ teaching:  [ EAFIT · Advanced AI Topics, Microsoft · GenAI for Financial Servi
 | 🏅 **Certs** | GitHub Certified: Agentic AI Developer (GH-600) |
 
 ## `$ git log --stat`
-
 <div align="center">
-
-![Followers](https://img.shields.io/github/followers/manularrea?style=for-the-badge&logo=github&logoColor=white&color=0d1117&labelColor=7ee787)
-![Stars](https://img.shields.io/github/stars/manularrea?style=for-the-badge&logo=github&logoColor=white&color=0d1117&labelColor=79c0ff)
-![Profile views](https://komarev.com/ghpvc/?username=manularrea&style=for-the-badge&color=d2a8ff&label=VIEWS)
-
-</div>
-
-<div align="center">
-  <img src="./game.gif" width="760" alt="contribution graph" />
+  <img src="https://TU-DOMINIO.vercel.app/api?username=manularrea&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7ee787&icon_color=79c0ff" height="165" alt="stats" />
+  <img src="https://TU-DOMINIO.vercel.app/api/top-langs/?username=manularrea&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7ee787" height="165" alt="langs" />
 </div>
 
 <div align="center">
