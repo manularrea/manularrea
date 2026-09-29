@@ -46,16 +46,6 @@ teaching:  [ EAFIT · Advanced AI Topics, Microsoft · GenAI for Financial Servi
 | 🎓 **Teaching** | Advanced AI Topics · Computational Thinking (EAFIT) · GenAI for Finance (Microsoft) · AI Master (Scopus-USA) |
 | 🏅 **Certs** | GitHub Certified: Agentic AI Developer (GH-600) |
 
-## `$ git log --stat`
-<div align="center">
-  <img src="https://TU-DOMINIO.vercel.app/api?username=manularrea&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7ee787&icon_color=79c0ff" height="165" alt="stats" />
-  <img src="https://TU-DOMINIO.vercel.app/api/top-langs/?username=manularrea&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7ee787" height="165" alt="langs" />
-</div>
-
-<div align="center">
-  <img src="./game.gif" width="760" alt="contribution graph" />
-</div>
-
 ## `$ curl contact`
 
 <div align="center">
