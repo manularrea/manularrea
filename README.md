@@ -8,9 +8,6 @@
 
 <br/>
 
-
-## `$ curl contact`
-
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuela-larrea-gomez)
@@ -18,6 +15,3 @@
 
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:7ee787&height=80&section=footer" width="100%" alt="footer" />
-</div>
